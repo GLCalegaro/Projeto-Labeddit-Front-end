@@ -7,9 +7,9 @@
 ## 🗒️ Sobre
 O Objetivo deste projeto Web Full Stack proposto no Bootcamp Labenu, é funcionar como uma rede social e está dividido em 2 repositórios (Labeddit-Back-End e Labeddit-Front-End). Dentro do aplicativo, você poderá criar seu cadastro e interagir com as publicações (curtir, comentar, editar) de outros usuários.
 
-A Aplicação faz o consumo da API Labeddit e a partir dela, você poderá cadastrar sua conta, criar e interagir com as publicações. O projeto é responsivo, respeitando a regra 'mobile-first' e seguindo o design proposto no [Figma](https://projeto-labeddit-giovannac.surge.sh/).
+A Aplicação faz o consumo da API Labeddit e a partir dela, você poderá cadastrar sua conta, criar e interagir com as publicações. O projeto é responsivo, respeitando a regra 'mobile-first' e seguindo o design proposto no [Figma](https://www.figma.com/file/Byakv89sjTqI6NG2NRAAKJ/Projeto-Integrador-Labeddit?node-id=0%3A1&t=haX9j5M0lHbjWnAr-0).
 
-* 💻 Acesse aqui o projeto: [Surge Labeddit](https://www.figma.com/file/Byakv89sjTqI6NG2NRAAKJ/Projeto-Integrador-Labeddit?node-id=0%3A1&t=haX9j5M0lHbjWnAr-0).
+* 💻 Acesse aqui o projeto: [Surge Labeddit](https://projeto-labeddit-giovannac.surge.sh/).
 
 * 🔗 Link Repositório [API Labeddit](https://github.com/GLCalegaro/Projeto-Labeddit-Back-end).
 
