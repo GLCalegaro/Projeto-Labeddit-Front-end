@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Bodoni+Moda:ital,opsz@1,6..96&family=Bungee+Spice&family=Chela+One&family=Eagle+Lake&family=Estonia&family=Lavishly+Yours&family=Lobster&family=Mitr:wght@300&family=Parisienne&family=Rampart+One&family=Rye&family=Titan+One&display=swap');
+
+.footer__copyright{
+    font-size: 0.9rem;
+    display: flex;
+    font-weight: 600;
+    align-items: self-start;
+    justify-content: center;
+    position: relative;
+    max-width: 100%;
+    height: 37px;
+    line-height: 24px;
+    bottom: 0px;
+    color: rgb(96, 95, 95);
+    font-family: 'Golos Text', sans-serif;
+}
