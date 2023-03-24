@@ -1,74 +1,35 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Projeto Labeddit (Front-end)</h1>
 
-## Available Scripts
+<p align="center">
+<img src="https://user-images.githubusercontent.com/111308068/227618025-0abfb03e-d666-412f-9cc2-08ca54cfaaaf.png"/></p>
 
-In the project directory, you can run:
+## 🗒️ Sobre
+O Objetivo deste projeto Web Full Stack proposto no Bootcamp Labenu, é funcionar como uma rede social e está dividido em 2 repositórios (Labeddit-Back-End e Labeddit-Front-End). Dentro do aplicativo, você poderá criar seu cadastro e interagir com as publicações (curtir, comentar, editar) de outros usuários.
 
-### `npm start`
+A Aplicação faz o consumo da API Labeddit e a partir dela, você poderá cadastrar sua conta, criar e interagir com as publicações. O projeto é responsivo, respeitando a regra 'mobile-first' e seguindo o design proposto no [Figma](https://projeto-labeddit-giovannac.surge.sh/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* 💻 Acesse aqui o projeto: [Surge Labeddit](https://www.figma.com/file/Byakv89sjTqI6NG2NRAAKJ/Projeto-Integrador-Labeddit?node-id=0%3A1&t=haX9j5M0lHbjWnAr-0).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* 🔗 Link Repositório [API Labeddit](https://github.com/GLCalegaro/Projeto-Labeddit-Back-end).
 
-### `npm test`
+## 📚 Bibliotecas e ferramentas utilizadas:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- react-icons: diversos itens personalizados;
+- framer-motion: para animação e interações personalizadas;
+- styled-components: para estilização da página;
+- axios: para requisição de API;
+- react-router-react: para interação entre páginas;
 
-### `npm run build`
+## Programas utilizados:
+-VSCode
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Tecnologias:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📝 Instruções de instalação do projeto:
+- npm install: Instala todas as dependências listadas no package.json;
+- npm start: Inicia a aplicação
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Projeto-Labeddit-Full-Stack
->>>>>>> fae08ae10dbdbcb71acab5ee75ed09b4bb05cb77
