@@ -16,7 +16,7 @@ A Aplicação faz o consumo da API Labeddit e a partir dela, você poderá cadas
 ## 📚 Bibliotecas e ferramentas utilizadas:
 
 - react-icons: biblioteca de icones personalizados;
-- framer-motion: para animação e interações personalizadas;
+- framer-motion: biblioteca para animação e interações personalizadas;
 - styled-components: para estilização da página;
 - axios: para requisição de API;
 - react-router-react: para interação entre páginas;
